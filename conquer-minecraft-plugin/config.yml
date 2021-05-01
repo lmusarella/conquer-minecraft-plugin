@@ -1,0 +1,11 @@
+settings: 0
+scoreboard:
+   update-time: 3
+   title: 'Server [ONLINE]/[MAXPLAYER]'
+   subtitle: ''
+   content:
+   - '[NAME]: [CATEGORY]'
+   - '[LEVEL]: [LEV-VALUE]'
+   - '[ENERGY]: [ENG-VALUE]'
+   - '[KILLS]: [KILL-VALUE]'
+   - '[DEATH]: [DEATH-VALUE]'

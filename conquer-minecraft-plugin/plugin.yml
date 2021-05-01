@@ -1,0 +1,9 @@
+name: ConquerCraft
+main: conquer.Main
+version: 1.0
+author: l.musarella
+description: First minecraft 1.3 plugin
+commands:
+   kit:
+      description:
+      usage: /kit
